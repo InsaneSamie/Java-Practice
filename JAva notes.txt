@@ -1,0 +1,3 @@
+-------------------Functions & Methods--------------
+-->All functions in java are stored in java in the form of stack.
+-->
